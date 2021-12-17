@@ -9,15 +9,21 @@ The pipeline executes in the following manner:
 
 
 
-1º Read_data.py
+The datasets used for **Case Study I** (Vitis Vinifera) are: 
 
-2º Preprocessing.py
+- **Metadata**: Metadata73_sort.xlsx
 
-3º Analysis.py
+- **Transcriptomics**: Transcriptomics_73_CS1.xlsx
 
-4º Machine_Learning.py
+- **Metabolomics**: Metabolomics_73_CS1.xlsx
 
-5º Multiomics_Integration.py
+For **Case Study II** (Arabidopsis thaliana) the datasets were:
 
-6º Unsupervised_Learning.py
+- **Metadata**: metadata_GSE65046.xlsx
 
+- **Transcriptomics**: transcriptomics_GSE65046.csv
+
+- **Fluxomics**: fluxomics.xlsx
+
+
+The test used to run the **Case Study I** was test.py and for **Case Study II** was new_test_CS2.py .
