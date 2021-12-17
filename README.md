@@ -9,7 +9,7 @@ The pipeline executes in the following manner:
 
 
 
-The datasets used for **Case Study I** (Vitis Vinifera) are: 
+The datasets used for **Case Study I** (Vitis Vinifera) were: 
 
 - **Metadata**: Metadata73_sort.xlsx
 
