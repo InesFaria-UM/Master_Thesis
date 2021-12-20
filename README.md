@@ -17,6 +17,8 @@ The datasets used for **Case Study I** (Vitis Vinifera) were:
 
 - **Metabolomics**: Metabolomics_73_CS1.xlsx
 
+- **Annotation**: 12864_2015_2115_MOESM5_ESM.xls
+
 For **Case Study II** (Arabidopsis thaliana) the datasets were:
 
 - **Metadata**: metadata_GSE65046.xlsx
@@ -25,5 +27,10 @@ For **Case Study II** (Arabidopsis thaliana) the datasets were:
 
 - **Fluxomics**: fluxomics.xlsx
 
+-**Annotation**: 
+
+*Transcriptomics*- Annotation-Transcriptomics.xlsx
+
+*Fluxomics* - annotation-flxomics.xlsx
 
 The test used to run the **Case Study I** was test.py and for **Case Study II** was new_test_CS2.py .
